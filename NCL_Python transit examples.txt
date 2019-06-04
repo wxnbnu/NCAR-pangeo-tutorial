@@ -1,0 +1,8 @@
+# Exercise in pull request... let me know if this works
+
+https://www.ncl.ucar.edu/open_letter_to_ncl_users.shtml
+
+in there:
+
+http://www.ncl.ucar.edu/Document/Manuals/NCL_to_Python/Transition_Guide_NCL_PyNGL.pdf
+http://www.ncl.ucar.edu/Applications/NCL_to_Python/
